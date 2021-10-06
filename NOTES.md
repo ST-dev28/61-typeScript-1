@@ -3,9 +3,10 @@ A. Veiksmai terminale:
 1. sukuriam globalia priega:
    npm install -g typescript
 
-2. paleidziam typescript cmpiler
-   tsc
+2. sukuriam raija index.ts
 
-3. sukuriam index.js is index.ts
+3. sukuriam index.js is index.ts:
+   paleidziam typescript compiler
+   tsc
 
 B. sukuriam faila tsconfig.json
