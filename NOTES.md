@@ -10,3 +10,5 @@ A. Veiksmai terminale:
    tsc
 
 B. sukuriam faila tsconfig.json
+
+matyti duomenis konsoleje dar terminale ivesti: tsc --watch
