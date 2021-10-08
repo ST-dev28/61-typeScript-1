@@ -11,3 +11,11 @@ A. Veiksmai terminale:
 B. sukuriam faila tsconfig.json
 
 matyti duomenis konsoleje dar terminale ivesti: tsc --watch
+
+
+##
+pradedant projekta(po to, kai pasikuriam failus index.html ir index.ts) 
+i konsole(jei typescript idiegtas globaliai, t.y. npm install -g typescript ) vesti:
+1. tsc
+2. tsc --init
+3. tsc -w  (tsc --watch  => tas pats)
